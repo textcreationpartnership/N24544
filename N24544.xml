@@ -113,8 +113,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:032482_0000_0FF1DBDDB5FBCF18"/>
-            <pb facs="tcp:032482_0001_0FF2E86DB30464F0"/>
+            <pb facs="unknown:032482_0000_0FF1DBDDB5FBCF18"/>
+            <pb facs="unknown:032482_0001_0FF2E86DB30464F0"/>
             <p>SONGS, &amp;c. IN THE COMET: OR HE WOULD BE A PHILOSOPHER. A COMEDY IN FIVE ACTS. AS PERFORMED BY THE OLD AMERICAN COMPANY, NEW-YORK.</p>
             <p>WRITTEN BY WM. MILNS. THE MUSIC BY J. HEWITT.</p>
             <p>
@@ -122,7 +122,7 @@
             <p>(<hi>Copy-right ſecured according to Act of Congreſs</hi>) 1797.</p>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:032482_0002_0FF1DBDF6A8FDBD8"/>
+            <pb facs="unknown:032482_0002_0FF1DBDF6A8FDBD8"/>
             <head>DRAMATIS PERSONAE.</head>
             <list>
                <head>MEN.</head>
@@ -144,7 +144,7 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:032482_0003_0FF2E87116D2B278"/>
+            <pb facs="unknown:032482_0003_0FF2E87116D2B278"/>
             <head>SONGS, &amp;c.</head>
             <div n="1" type="act">
                <head>ACT I.</head>
@@ -190,7 +190,7 @@
                   <desc>〈1… pages missing〉</desc>
                </gap>
                <div n="3" type="scene">
-                  <pb n="6" facs="tcp:032482_0004_0FF2E836CBCD83D0"/>
+                  <pb n="6" facs="unknown:032482_0004_0FF2E836CBCD83D0"/>
                   <head>ACT I. SCENE III.</head>
                   <sp>
                      <speaker>SIR CREDULOUS.</speaker>
@@ -231,7 +231,7 @@
                         <l>To range the meads with you.</l>
                      </lg>
                      <lg>
-                        <pb n="7" facs="tcp:032482_0005_0FF2E876844717C0"/>
+                        <pb n="7" facs="unknown:032482_0005_0FF2E876844717C0"/>
                         <l>To catch deſcription's ſweeteſt phraſe,</l>
                         <l>When in ſome fragrant bower,</l>
                         <l>You trac'd gay Nature's frolic ways,</l>
@@ -282,7 +282,7 @@
                         <l>Fiddle de—faddle de dee.</l>
                      </lg>
                      <lg>
-                        <pb n="8" facs="tcp:032482_0006_0FF2E83DEFD52DA0"/>
+                        <pb n="8" facs="unknown:032482_0006_0FF2E83DEFD52DA0"/>
                         <l>The Pedant is cramm'd full of lore,</l>
                         <l>Greek and Latin have ſtuff'd up his head;</l>
                         <l>To Parnaſſus pray how can he ſoar,</l>
@@ -359,7 +359,7 @@
                      </sp>
                   </div>
                   <div type="part">
-                     <pb n="9" facs="tcp:032482_0007_0FF2E879C6B1CA78"/>
+                     <pb n="9" facs="unknown:032482_0007_0FF2E879C6B1CA78"/>
                      <head>2.</head>
                      <sp>
                         <speaker>Sir Cred.</speaker>
@@ -490,7 +490,7 @@
                </div>
             </div>
             <div n="3" type="act">
-               <pb n="10" facs="tcp:032482_0008_0FF2E845609CF408"/>
+               <pb n="10" facs="unknown:032482_0008_0FF2E845609CF408"/>
                <head>ACT III.</head>
                <div n="1" type="scene">
                   <head>SCENE I.</head>
@@ -537,7 +537,7 @@
                         <l>Stitch the Taylor,</l>
                         <l>And Cant the Clerk to ſing Amen,</l>
                         <l>
-                           <pb n="9" facs="tcp:032482_0009_0FF2E87F2311DFF0"/>
+                           <pb n="9" facs="unknown:032482_0009_0FF2E87F2311DFF0"/>
 And make us all begin again.</l>
                         <l>And how do you do, my <gap reason="illegible: indecipherable" extent="1 letter">
                               <desc>•</desc>
@@ -586,7 +586,7 @@ And make us all begin again.</l>
                         <l>And as we grow humble they grow more inſulting.</l>
                         <l>A woman, &amp;c.</l>
                         <l>
-                           <pb n="10" facs="tcp:032482_0010_0FF2E84796C10ED8"/>
+                           <pb n="10" facs="unknown:032482_0010_0FF2E84796C10ED8"/>
 If they wheedle or ſmile you're fairly undone,</l>
                         <l>They're more changeable far than the horns of the moon,</l>
                         <l>Now they're this and then that, ſome deep plot ſtill laying,</l>
@@ -630,7 +630,7 @@ If they wheedle or ſmile you're fairly undone,</l>
                   </lg>
                </sp>
                <div n="2" type="scene">
-                  <pb n="11" facs="tcp:032482_0011_0FF2E8827AEB30E0"/>
+                  <pb n="11" facs="unknown:032482_0011_0FF2E8827AEB30E0"/>
                   <head>ACT IV. SCENE II.</head>
                   <sp>
                      <speaker>LADY CANDOUR.</speaker>
@@ -681,7 +681,7 @@ If they wheedle or ſmile you're fairly undone,</l>
                         <l>Who felicity covers—true love muſt embrace.</l>
                         <l>For of all other bleſſings—love holds the chief place.</l>
                         <l>
-                           <pb n="12" facs="tcp:032482_0012_0FF2E84D81624750"/>
+                           <pb n="12" facs="unknown:032482_0012_0FF2E84D81624750"/>
 Trace nature through ocean, air, meadow or grove,</l>
                         <l>What ſeaſon ſo gay as the ſeaſon of love;</l>
                         <l>the ſcaly inhabitants ſport in the main,</l>
@@ -728,7 +728,7 @@ Trace nature through ocean, air, meadow or grove,</l>
                               <desc>〈◊〉</desc>
                            </gap> laid;</l>
                         <l>
-                           <pb n="13" facs="tcp:032482_0013_0FF2E885D1E50248"/>
+                           <pb n="13" facs="unknown:032482_0013_0FF2E885D1E50248"/>
 Some rouge, my girl,</l>
                         <l>Again—that's well,</l>
                         <l>Another touch</l>
@@ -778,7 +778,7 @@ Some rouge, my girl,</l>
                   </lg>
                </sp>
                <sp>
-                  <pb n="14" facs="tcp:032482_0014_0FF2E84F46A35F10"/>
+                  <pb n="14" facs="unknown:032482_0014_0FF2E84F46A35F10"/>
                   <speaker>BELMONT.</speaker>
                   <lg>
                      <l>Now ſir Credulous you will agree ſir,</l>
